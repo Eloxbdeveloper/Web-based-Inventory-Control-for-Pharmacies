@@ -141,11 +141,11 @@ In the future, the system could integrate directly with POS systems such as VOPO
 
 **Emanuel Orjuela Barbosa**
 
-Email: emanuelorjuelabarbosa12@gmail.com
+Email: eloxbdeveloper@gmail..com
 
-Instagram: https://www.instagram.com/emx.dev
+Instagram: https://www.instagram.com/develoxb
 
-Github: https://github.com/Emanuelorjuela
+Github: https://github.com/Eloxbdeveloper
 
 This project demonstrates how a lightweight web solution developed in pure JavaScript can effectively solve a real operational problem in retail environments. The application optimizes the physical inventory process, reduces human errors, and improves real-time interpretation of results while maintaining stable performance even with large inventories.
 
