@@ -139,6 +139,8 @@ In the future, the system could integrate directly with POS systems such as VOPO
 
 ## 11. Author
 
+**Eloxb Developer**
+
 Email: [eloxbdeveloper@gmail.com](mailto:eloxbdeveloper@gmail.com)
 
 Instagram: https://www.instagram.com/develoxb
